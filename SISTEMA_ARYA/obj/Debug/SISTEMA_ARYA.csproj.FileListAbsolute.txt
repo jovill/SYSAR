@@ -1,0 +1,5 @@
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\SISTEMA_ARYA\SISTEMA_ARYA\bin\SISTEMA_ARYA.dll.config
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\SISTEMA_ARYA\SISTEMA_ARYA\bin\SISTEMA_ARYA.dll
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\SISTEMA_ARYA\SISTEMA_ARYA\bin\SISTEMA_ARYA.pdb
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\SISTEMA_ARYA\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.dll
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\SISTEMA_ARYA\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.pdb
