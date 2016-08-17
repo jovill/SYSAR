@@ -9,3 +9,9 @@ C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\bin\SISTEMA
 C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.csprojResolveAssemblyReference.cache
 C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.dll
 C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.pdb
+C:\Users\pedro.rezende\Documents\Visual Studio 2015\Projects\SIS_ARYA\SISTEMA_ARYA\bin\SISTEMA_ARYA.dll.config
+C:\Users\pedro.rezende\Documents\Visual Studio 2015\Projects\SIS_ARYA\SISTEMA_ARYA\bin\SISTEMA_ARYA.dll
+C:\Users\pedro.rezende\Documents\Visual Studio 2015\Projects\SIS_ARYA\SISTEMA_ARYA\bin\SISTEMA_ARYA.pdb
+C:\Users\pedro.rezende\Documents\Visual Studio 2015\Projects\SIS_ARYA\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.csprojResolveAssemblyReference.cache
+C:\Users\pedro.rezende\Documents\Visual Studio 2015\Projects\SIS_ARYA\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.dll
+C:\Users\pedro.rezende\Documents\Visual Studio 2015\Projects\SIS_ARYA\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.pdb
