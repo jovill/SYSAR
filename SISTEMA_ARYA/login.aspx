@@ -80,7 +80,7 @@
                         <a href="#" style="float:right">Esqueci a senha.</a>
                     </div>
             
-                    <asp:Button ID="btnLogar" runat="server" width="50%" class="btn btn-md btn-primary" type="submit" Text="Entrar" />
+                    <asp:Button ID="btnLogar"  runat="server" width="50%" class="btn btn-md btn-primary" type="submit" Text="Entrar" OnClientClick="btnLogar" OnClick="btnLogar_Click" />
                     <br /><br />
                     <asp:Label ID="Label1" runat="server" Text="" ></asp:Label> 
 

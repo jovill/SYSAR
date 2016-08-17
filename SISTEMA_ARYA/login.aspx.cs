@@ -13,5 +13,10 @@ namespace SISTEMA_ARYA
         {
 
         }
+
+        protected void btnLogar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("index.aspx");
+        }
     }
 }

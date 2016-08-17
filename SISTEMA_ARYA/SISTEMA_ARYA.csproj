@@ -66,6 +66,7 @@
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="bootstrap\js\bootstrap-select.js.map" />
+    <Content Include="css\esrimap.css" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.eot" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.ttf" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.woff" />
@@ -121,6 +122,7 @@
     <Content Include="js\jquery-maskmoney-master\package.json" />
     <Content Include="js\jquery-maskmoney-master\README.md" />
     <Content Include="login.aspx" />
+    <Content Include="scripts\esrimap.js" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
