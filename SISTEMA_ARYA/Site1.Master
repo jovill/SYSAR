@@ -26,13 +26,14 @@
         <!--LOCAL-->
             <link href="css/stylesheet.css" rel="Stylesheet" type="text/css" />
             <link href="css/masterpage.css" rel="Stylesheet" type="text/css" />
+             <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <div class="area" >
+    
 
-      </div><nav class="main-menu" style="display:block;">
+      <nav class="main-menu" style="display:block;">
             <ul>
                 <li>
                     <a href="login.aspx">
