@@ -70,10 +70,6 @@
   <ItemGroup>
     <Content Include="App_Data\DHTMLX.dll" />
     <Content Include="App_Data\DHTMLX.XML" />
-    <Content Include="App_Data\Scheduler.mdf" />
-    <Content Include="App_Data\Scheduler_log.LDF">
-      <DependentUpon>Scheduler.mdf</DependentUpon>
-    </Content>
     <Content Include="bootstrap\css\bootstrap-select.css.map" />
     <Content Include="bootstrap\css\bootstrap-theme.css.map" />
     <Content Include="bootstrap\css\bootstrap.css.map" />
