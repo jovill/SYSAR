@@ -19,3 +19,13 @@ C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\bin\DHTMLX.
 C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\bin\EntityFramework.dll
 C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\bin\DHTMLX.xml
 C:\Users\pedro.rezende\Documents\ARYA_SIS\SISTEMA_ARYA2\SISTEMA_ARYA\bin\EntityFramework.xml
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\SISTEMA_ARYA.dll.config
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\SISTEMA_ARYA.dll
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\SISTEMA_ARYA.pdb
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\DHTMLX.dll
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\EntityFramework.dll
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\DHTMLX.xml
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\bin\EntityFramework.xml
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.csprojResolveAssemblyReference.cache
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.dll
+C:\Users\renan.xavier\Source\Repos\SISTEMA_ARYA4\SISTEMA_ARYA\obj\Debug\SISTEMA_ARYA.pdb

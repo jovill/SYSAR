@@ -1,55 +1,55 @@
 <div class="dhx_form_repeat">
 	<form>
     <div class="dhx_repeat_left">
-               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="day" />Daily</label><br />
-               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="week"/>Weekly</label><br />
-               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="month" checked />Monthly</label><br />
-               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="year" />Yearly</label>
+               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="day" />Diariamente</label><br />
+               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="week"/>Semanalmente</label><br />
+               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="month" checked />Mensalmente</label><br />
+               <label><input class="dhx_repeat_radio" type="radio" name="repeat" value="year" />Anualmente</label>
     </div>
     <div class="dhx_repeat_divider"></div>
     <div class="dhx_repeat_center">
                <div style="display:none;" id="dhx_repeat_day">
-                   <label><input class="dhx_repeat_radio" type="radio" name="day_type" value="d"/>Every</label><input class="dhx_repeat_text" type="text" name="day_count" value="1" />day<br />
-                   <label><input class="dhx_repeat_radio" type="radio" name="day_type" checked value="w"/>Every workday</label>
+                   <label><input class="dhx_repeat_radio" type="radio" name="day_type" value="d"/>Todo</label><input class="dhx_repeat_text" type="text" name="day_count" value="1" />Dia<br />
+                   <label><input class="dhx_repeat_radio" type="radio" name="day_type" checked value="w"/>Todo dia de trabalho</label>
                </div>
                <div style="display:none;" id="dhx_repeat_week">
-                   Repeat every<input class="dhx_repeat_text" type="text" name="week_count" value="1" />week next days:<br />
+                   Repita a cada<input class="dhx_repeat_text" type="text" name="week_count" value="1" />semana nos próximos dias:<br />
 
                    <table class="dhx_repeat_days">
                        <tr>
                            <td>
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="1" />Monday</label><br />
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="4" />Thursday</label>
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="1" />Segunda-Feira</label><br />
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="4" />Quinta-Feira</label>
                            </td>
                            <td>
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="2" />Tuesday</label><br />
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="5" />Friday</label>
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="2" />Terça-Feira</label><br />
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="5" />Sexta-Feira</label>
                            </td>
                            <td>
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="3" />Wednesday</label><br />
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="6" />Saturday</label>
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="3" />Quarta-Feira</label><br />
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="6" />Sábado</label>
                            </td>
                            <td>
-                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="0" />Sunday</label><br /><br />
+                               <label><input class="dhx_repeat_checkbox" type="checkbox" name="week_day" value="0" />Domingo</label><br /><br />
                            </td>
                        </tr>
                    </table>
 
                </div>
                <div id="dhx_repeat_month">
-                   <label><input class="dhx_repeat_radio" type="radio" name="month_type" value="d"/>Repeat</label><input class="dhx_repeat_text" type="text" name="month_day" value="1" />day every<input class="dhx_repeat_text" type="text" name="month_count" value="1" />month<br />
-                   <label><input class="dhx_repeat_radio" type="radio" name="month_type" checked value="w"/>On</label><input class="dhx_repeat_text" type="text" name="month_week2" value="1" /><select name="month_day2"><option value="1" selected >Monday<option value="2">Tuesday<option value="3">Wednesday<option value="4">Thursday<option value="5">Friday<option value="6">Saturday<option value="0">Sunday</select>every<input class="dhx_repeat_text" type="text" name="month_count2" value="1" />month<br />
+                   <label><input class="dhx_repeat_radio" type="radio" name="month_type" value="d"/>Repita</label><input class="dhx_repeat_text" type="text" name="month_day" value="1" />o dia em todo<input class="dhx_repeat_text" type="text" name="month_count" value="1" />mês<br />
+                   <label><input class="dhx_repeat_radio" type="radio" name="month_type" checked value="w"/>Em</label><input class="dhx_repeat_text" type="text" name="month_week2" value="1" /><select name="month_day2"><option value="1" selected >Segunda-Feira<option value="2">Terça-Feira<option value="3">Quarta-Feira<option value="4">Quinta-Feira<option value="5">Sexta-Feira<option value="6">Sábado<option value="0">Domingo</select>todo<input class="dhx_repeat_text" type="text" name="month_count2" value="1" />mês<br />
                </div>
                <div style="display:none;" id="dhx_repeat_year">
-                   <label><input class="dhx_repeat_radio" type="radio" name="year_type" value="d"/>Every</label><input class="dhx_repeat_text" type="text" name="year_day" value="1" />day<select name="year_month"><option value="0" selected >January<option value="1">February<option value="2">March<option value="3">April<option value="4">May<option value="5">June<option value="6">July<option value="7">August<option value="8">September<option value="9">October<option value="10">November<option value="11">December</select>month<br />
-                   <label><input class="dhx_repeat_radio" type="radio" name="year_type" checked value="w"/>On</label><input class="dhx_repeat_text" type="text" name="year_week2" value="1" /><select name="year_day2"><option value="1" selected >Monday<option value="2">Tuesday<option value="3">Wednesday<option value="4">Thursday<option value="5">Friday<option value="6">Saturday<option value="7">Sunday</select>of<select name="year_month2"><option value="0" selected >January<option value="1">February<option value="2">March<option value="3">April<option value="4">May<option value="5">June<option value="6">July<option value="7">August<option value="8">September<option value="9">October<option value="10">November<option value="11">December</select><br />
+                   <label><input class="dhx_repeat_radio" type="radio" name="year_type" value="d"/>todo</label><input class="dhx_repeat_text" type="text" name="year_day" value="1" />dia<select name="year_month"><option value="0" selected >Juneiro<option value="1">Fevereiro<option value="2">Março<option value="3">Abril<option value="4">Maio<option value="5">junho<option value="6">Julho<option value="7">Agosto<option value="8">Setembro<option value="9">Outubro<option value="10">Novembro<option value="11">Dezembro</select>mês<br />
+                   <label><input class="dhx_repeat_radio" type="radio" name="year_type" checked value="w"/>On</label><input class="dhx_repeat_text" type="text" name="year_week2" value="1" /><select name="year_day2"><option value="1" selected >Segunda-Feira<option value="2">Terça-Feira<option value="3">Quarta-Feira<option value="4">Quinta-Feira<option value="5">Sexta-Feira<option value="6">Sábado<option value="7">Domingo</select>of<select name="year_month2"><option value="0" selected >Janeiro<option value="1">Fevereiro<option value="2">Março<option value="3">Abril<option value="4">Maio<option value="5">Junho<option value="6">Julho<option value="7">Agosto<option value="8">Setembro<option value="9">Outubro<option value="10">Novembro<option value="11">Dezembro</select><br />
                </div>
     </div>
     <div class="dhx_repeat_divider"></div>
     <div class="dhx_repeat_right">
-               <label><input class="dhx_repeat_radio" type="radio" name="end" checked/>No end date</label><br />
-               <label><input class="dhx_repeat_radio" type="radio" name="end" />After</label><input class="dhx_repeat_text" type="text" name="occurences_count" value="1" />occurrences<br />
-               <label><input class="dhx_repeat_radio" type="radio" name="end" />End by</label><input class="dhx_repeat_date" type="text" name="date_of_end" value="'+scheduler.config.repeat_date_of_end+'" /><br />
+               <label><input class="dhx_repeat_radio" type="radio" name="end" checked/>Sem data de término</label><br />
+               <label><input class="dhx_repeat_radio" type="radio" name="end" />Depois</label><input class="dhx_repeat_text" type="text" name="occurences_count" value="1" />das ocorrências<br />
+               <label><input class="dhx_repeat_radio" type="radio" name="end" />Término</label><input class="dhx_repeat_date" type="text" name="date_of_end" value="'+scheduler.config.repeat_date_of_end+'" /><br />
     </div>
     </form>
  </div>
