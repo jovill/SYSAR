@@ -412,6 +412,7 @@
     <Content Include="Scripts\script_search.js" />
     <Content Include="Scripts\socialCircle.js" />
     <Content Include="Style\Site.css" />
+    <Content Include="usuario.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -460,6 +461,13 @@
     </Compile>
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="usuario.aspx.cs">
+      <DependentUpon>usuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usuario.aspx.designer.cs">
+      <DependentUpon>usuario.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
